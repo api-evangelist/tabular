@@ -37,7 +37,7 @@ x-defunct: true
 x-defunct-reason: >-
   Acquired by Databricks (June 2024); standalone service wound down. tabular.io domain does not resolve
   (DNS ENOTFOUND) and the tabular-io GitHub org has been emptied of public repositories.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
